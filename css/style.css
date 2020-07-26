@@ -1,0 +1,73 @@
+body{
+	margin: 0px
+}
+
+img{
+	max-width: 100%
+}
+
+
+.banner{
+	
+text-align: center;
+	
+width: auto;
+	
+
+}
+
+
+.center-box{
+	
+}
+
+h1{
+	
+font-size: 34px;
+	
+width: auto;
+}
+
+section{
+background-attachment: fixed;
+	
+	
+width: auto;
+	
+padding: 400px;
+	
+background-size: cover;
+	
+background-repeat: no-repeat;
+	
+background-position-y: top;
+
+}
+
+
+.one{
+	
+background-image: url(../images/11.jpg);
+	
+
+}
+
+
+.two{
+background-image: url(../images/12.jpg);
+}
+.three{
+background-image: url(../images/13.jpg);
+
+}
+.four{
+background-image: url(../images/14.jpg);
+}
+
+.five{
+background-image: url(../images/15.jpg);
+}
+
+.six{
+background-image: url(../images/16.jpg);
+}
